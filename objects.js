@@ -1,1 +1,1 @@
-object.ass
+Object.assign() 
