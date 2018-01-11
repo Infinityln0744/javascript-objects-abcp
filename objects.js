@@ -3,7 +3,7 @@ var playlist = {
 };
 
 function updatePlaylist(playlist,artistName,songTitle){
-  return Object.assign(playlist,{Phil Ochs:['before all']});
+  return Object.assign(playlist,{artistName:['before all']});
 }
 
 function removeFromPlaylist(playlist,artistName){
