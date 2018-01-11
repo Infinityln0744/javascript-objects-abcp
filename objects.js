@@ -3,7 +3,9 @@ var playlist = {
 };
 
 function updatePlaylist(playlist,artistName,songTitle){
-  return Object.assign(playlist, {artistNam:['Slowdow','My Bloody Valentine','Phil Ochs']});
+  return Object.assign(playlist, {artistNam:['Phil Ochs']});
 }
 
-function 
+function removeFromPlaylist(playlist,artistName){
+  delete playlist.artistName;
+}
