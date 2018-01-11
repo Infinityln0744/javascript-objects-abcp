@@ -2,5 +2,6 @@ var playlist = {
  artistName: "before all"
 };
 
-function updatePlaylist(playlist, artistName, songTitle){
+Object.updatePlaylist(playlist, artistName, songTitle)
+return assign({artistName:`songTitle`} ){
 }
