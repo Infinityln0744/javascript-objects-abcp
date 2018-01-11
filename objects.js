@@ -2,4 +2,6 @@ var playlist = {
  artistName: "before all"
 };
 
-Function updatePlaylist()
+Function updatePlaylist(){
+  
+}
