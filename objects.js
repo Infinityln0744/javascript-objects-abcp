@@ -1,1 +1,1 @@
-var playlist = {artistname}
+1.	Object.assign({}, { playlist: 'before all' }) 
