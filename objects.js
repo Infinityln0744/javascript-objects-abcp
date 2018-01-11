@@ -1,1 +1,1 @@
-1.	Object.assign({}, { playlist: 'before all' }) 
+	Object.assign({}, { playlist: 'before all' }) 
