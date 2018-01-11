@@ -3,5 +3,5 @@ var playlist = {
 };
 
 function updatePlaylist(playlist,artistName,songTitle){
-  return Object.assign(playlist, {artistName:['Slowdow','My Bloody Valentine','Phil Ochs']});
+  return Object.assign(playlist, {artistNam:['Slowdow','My Bloody Valentine','Phil Ochs']});
 }
